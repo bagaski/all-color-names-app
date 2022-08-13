@@ -10,3 +10,9 @@ header {
   opacity: 1;
   box-shadow: black 1px 1px 20px;
 }
+
+p:hover {
+  opacity: 0.3;
+  cursor: pointer;
+  color: #ddd;  
+  }
